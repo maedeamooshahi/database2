@@ -50,8 +50,8 @@
                         <tr>
                             <td>
                                 <div class="row">
-                                    <a class="col-8" href="one.php?id=<?php echo $row['user id']; ?>"><?php echo $row['name']." ".$row['family']; ?></a>
-                                    <a class="col-4" href="edit.php?id=<?php echo $row['user id']; ?>">(edit)</a>
+                                    <a class="col-8" href="yeki.php?id=<?php echo $row['user id']; ?>"><?php echo $row['name']." ".$row['family']; ?></a>
+                                    <a class="col-4" href="virayesh.php?id=<?php echo $row['user id']; ?>">(edit)</a>
                                 </div>
                             </td>
                             <td><?php echo $row['birthdate']; ?></td>
