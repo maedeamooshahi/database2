@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row justify-content-center menu">
                 <div class="col-md-1 col-2">
-                    <a href="inputt.php">inputt</a>
+                    <a href="vorodi.php">vorodi</a>
                 </div>
                 <div class="col-md-1 col-2">
                     <a href="hameh.php">hameh</a>
