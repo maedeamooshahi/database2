@@ -5,14 +5,11 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>ADB - 1st Ex.</title>
+        <title>تمرین دوم</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="libs/bootstrap.css">
-        <script type="text/javascript" src="libs/bootstrap.js"></script>
-
-        <script type="text/javascript" src="libs/ajax.js"></script>
-        <script type="text/javascript" src="libs/jquery.js"></script>
+        <link rel="stylesheet" href="bootstrap.css">
+        <script type="text/javascript" src="bootstrap.js"></script>
         
     </head>
     <body>
@@ -25,7 +22,7 @@
                     <a href="vorodi.php">vorodi</a>
                 </div>
                 <div class="col-md-1 col-2 active">
-                    <a href="all.php">hameh</a>
+                    <a href="hame.php">hameh</a>
                 </div>
                 <div class="col-md-1 col-2">
                     <a href="#">one</a>
